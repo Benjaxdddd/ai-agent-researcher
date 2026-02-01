@@ -33,5 +33,5 @@ El sistema consiste en tres nodos cognitivos especializados gestionados por una 
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone [https://github.com/TU_USUARIO/ai-agent-researcher.git](https://github.com/TU_USUARIO/ai-agent-researcher.git)
+git clone [https://github.com/Benjaxdddd/ai-agent-researcher.git](https://github.com/Benjaxdddd/ai-agent-researcher.git)
 cd ai-agent-researcher
