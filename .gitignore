@@ -1,0 +1,7 @@
+# Archivos de entorno (¡SECRETO!)
+.env
+venv/
+__pycache__/
+
+# Archivos de sistema
+.DS_Store
