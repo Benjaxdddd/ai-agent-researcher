@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Autonomous AI Research Agent (LangGraph + Llama 3)
+# Autonomous AI Research Agent (LangGraph + Llama 3)
 
 > Un agente autónomo de vanguardia capaz de realizar investigación profunda en internet, redactar informes y **auto-corregirse (Self-Correcting)** mediante bucles de retroalimentación iterativos. Construido con **LangGraph**, **Tavily** y **Groq (Llama-3-70b)**.
 
